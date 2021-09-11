@@ -169,7 +169,7 @@ class _NoteEditScreenState extends State<NoteEditScreen> {
                 maxLines: null,
                 style: createContent,
                 decoration: InputDecoration(
-                  hintText: 'Enter Something....',
+                  hintText: 'Enter Something Wordsays....',
                   border: InputBorder.none,
                 ),
               ),
