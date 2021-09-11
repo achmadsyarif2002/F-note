@@ -55,7 +55,7 @@ class NoteListScreen extends StatelessWidget {
                   goNoteEditScreen(context);
                 },
                 child: Icon(
-                  Icons.add,
+                  Icons.delete,
                 ),
               ),
             );
