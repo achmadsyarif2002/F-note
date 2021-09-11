@@ -180,7 +180,7 @@ class _NoteEditScreenState extends State<NoteEditScreen> {
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           if (titleController.text.isEmpty) {
-            titleController.text = 'Untitled Note';
+            titleController.text = 'Note is Untitled';
           }
           saveNote();
         },
